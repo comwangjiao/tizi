@@ -16,6 +16,6 @@
 - 地址：
 [https://w1.v2free.cc/auth/register?code=EUXu](https://w1.v2free.cc/auth/register?code=EUXu)
 - 套餐展示
- ![1](/2.png))
-![1]([/3.png))
+ ![2](/2.png))
+ ![3]([/3.png))
 
