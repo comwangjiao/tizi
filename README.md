@@ -7,7 +7,7 @@
 - 地址：
   [https://hkcdn.ts123.cc/register?code=RNUPCTrE](https://hkcdn.ts123.cc/register?code=RNUPCTrE)
 - 套餐展示
-![1](/1.png))
+![1](/1.png)
 ## 二：V2free
 - 免费试用1G(天天签到可以免费得400M)
 - 速度快节点多
@@ -16,7 +16,7 @@
 - 地址：
 [https://w1.v2free.cc/auth/register?code=EUXu](https://w1.v2free.cc/auth/register?code=EUXu)
 - 套餐展示
- ![2](/2.png))
- 
- ![3]([/3.png))
+ ![2](/2.png)
+
+ ![3]([/3.png)
 
